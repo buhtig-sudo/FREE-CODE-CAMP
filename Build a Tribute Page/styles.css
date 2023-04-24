@@ -1,0 +1,17 @@
+
+#image{
+  display:block;
+  max-width:100%;
+ height:auto;
+ margin:0 auto;
+}
+#img-div{
+   display: flex;
+  
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0 auto;
+  padding: 20px 10px;
+}
